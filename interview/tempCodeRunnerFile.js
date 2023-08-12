@@ -1,0 +1,1 @@
+printdetails.call(user1,"delhit","degert") 
